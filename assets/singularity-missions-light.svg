@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Flight Deck: antigravity-liftoff, YVS YouTube Vision Skill, ghostcage, and parqdiff.">
+<style>
+.mc{animation:rise .9s cubic-bezier(0.16, 1, 0.3, 1) both}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="14" fill="#f3f1ec" stroke="#d4d7df"/>
+<path d="M14 32V14H32 M1168 14H1186V32 M1186 308V326H1168 M32 326H14V308" fill="none" stroke="#0b5cad" stroke-opacity="0.7" stroke-width="1.5"/>
+<text x="36" y="46" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="3" fill="#0b5cad">FLIGHT DECK  //  SELECTED SYSTEMS &amp; PAYLOADS</text>
+<text x="1164" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.8" fill="#555c6e">PUBLIC REPOS &amp; STEALTH ENGINES</text>
+<line x1="36" y1="58" x2="1164" y2="58" stroke="#d4d7df"/>
+<g class="mc" style="animation-delay:0.20s">
+  <rect x="36" y="74" width="552" height="116" rx="8" fill="#ebe8e0" stroke="#d4d7df"/>
+  <path d="M36 84V74H46 M578 74H588V84 M588 180V190H578 M46 190H36V180" fill="none" stroke="#0b5cad" stroke-opacity="0.85" stroke-width="1.5"/>
+  <text x="54" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#555c6e">MSN-01</text>
+  <text x="118" y="101" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="16" fill="#14161c">antigravity-liftoff</text>
+  <rect x="454" y="86" width="118" height="20" rx="4" fill="#dceafb"/>
+  <text x="513" y="99.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="1.1" fill="#0b5cad">PUBLIC // LIVE</text>
+  <text x="54" y="126" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">Cinematic gravity-to-antigravity intro launcher for Google</text>
+  <text x="54" y="144" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">Antigravity on Windows with 2D physics, WebGL FX &amp; Silver Ink theme.</text>
+  <circle cx="59" cy="170" r="4.5" fill="#f1e05a"/>
+  <text x="71" y="174" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#14161c">JavaScript · Python · WebGL</text>
+  <text x="570" y="174" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" fill="#9a5b13">★ 1</text>
+</g><g class="mc" style="animation-delay:0.32s">
+  <rect x="612" y="74" width="552" height="116" rx="8" fill="#ebe8e0" stroke="#d4d7df"/>
+  <path d="M612 84V74H622 M1154 74H1164V84 M1164 180V190H1154 M622 190H612V180" fill="none" stroke="#0b5cad" stroke-opacity="0.85" stroke-width="1.5"/>
+  <text x="630" y="101" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#555c6e">MSN-02</text>
+  <text x="694" y="101" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="16" fill="#14161c">YVS — YouTube Vision Skill</text>
+  <rect x="1030" y="86" width="118" height="20" rx="4" fill="#dceafb"/>
+  <text x="1089" y="99.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="1.1" fill="#0b5cad">PUBLIC // MCP</text>
+  <text x="630" y="126" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">Multimodal MCP server &amp; AI agent skill enabling agents to see and</text>
+  <text x="630" y="144" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">hear YouTube streams via scene extraction &amp; timeline alignment.</text>
+  <circle cx="635" cy="170" r="4.5" fill="#3572A5"/>
+  <text x="647" y="174" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#14161c">Python · MCP · Gemini · Whisper</text>
+  
+</g><g class="mc" style="animation-delay:0.44s">
+  <rect x="36" y="210" width="552" height="116" rx="8" fill="#ebe8e0" stroke="#d4d7df"/>
+  <path d="M36 220V210H46 M578 210H588V220 M588 316V326H578 M46 326H36V316" fill="none" stroke="#9a5b13" stroke-opacity="0.85" stroke-width="1.5"/>
+  <text x="54" y="237" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#555c6e">MSN-03</text>
+  <text x="118" y="237" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="16" fill="#14161c">ghostcage</text>
+  <rect x="454" y="222" width="118" height="20" rx="4" fill="#e6e1f5"/>
+  <text x="513" y="235.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="1.1" fill="#5b21b6">STEALTH // CORE</text>
+  <text x="54" y="262" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">Zero-trust secret-blind MITM proxy and OS sandbox for running</text>
+  <text x="54" y="280" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">autonomous AI coding agents without exposing credentials.</text>
+  <circle cx="59" cy="306" r="4.5" fill="#00ADD8"/>
+  <text x="71" y="310" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#14161c">Go · MITM Proxy · OS Sandbox</text>
+  
+</g><g class="mc" style="animation-delay:0.56s">
+  <rect x="612" y="210" width="552" height="116" rx="8" fill="#ebe8e0" stroke="#d4d7df"/>
+  <path d="M612 220V210H622 M1154 210H1164V220 M1164 316V326H1154 M622 326H612V316" fill="none" stroke="#9a5b13" stroke-opacity="0.85" stroke-width="1.5"/>
+  <text x="630" y="237" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1.6" fill="#555c6e">MSN-04</text>
+  <text x="694" y="237" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="16" fill="#14161c">parqdiff</text>
+  <rect x="1030" y="222" width="118" height="20" rx="4" fill="#e6e1f5"/>
+  <text x="1089" y="235.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" font-weight="600" letter-spacing="1.1" fill="#5b21b6">STEALTH // CORE</text>
+  <text x="630" y="262" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">Semantic, out-of-core Parquet/CSV diff engine with zero-scan remote</text>
+  <text x="630" y="280" font-family="'Helvetica Neue', 'Segoe UI', ui-sans-serif, -apple-system, Helvetica, Arial, sans-serif" font-size="12.8" fill="#555c6e">metadata inspection and native git diff integration.</text>
+  <circle cx="635" cy="306" r="4.5" fill="#dea584"/>
+  <text x="647" y="310" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" letter-spacing="1" fill="#14161c">Rust · Apache Arrow · Parquet</text>
+  
+</g>
+</svg>
