@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-hero-dark.svg">
-  <img alt="Dat Pham (@datphalm): AI Agent Security, Systems &amp; Multimodal Tooling. Cinematic Gargantua black hole accretion disk drawn from 1,360 contributions across 322 active days." src="./assets/singularity-hero-light.svg" width="100%">
+  <img alt="Dat Pham (@datphalm): AI Agent Security, Systems &amp; Multimodal Tooling. Cinematic Gargantua black hole accretion disk drawn from 1,360 contributions across 321 active days." src="./assets/singularity-hero-light.svg" width="100%">
 </picture>
 </p>
 
@@ -20,7 +20,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/singularity-telemetry-dark.svg">
-  <img alt="Mission telemetry for Antigravity III: 3 years on GitHub, 1,360 contributions in the last 12 months, 322 active days (88.2%), longest streak 112 days, peak day 516 commits." src="./assets/singularity-telemetry-light.svg" width="100%">
+  <img alt="Mission telemetry for Antigravity III: 3 years on GitHub, 1,360 contributions in the last 12 months, 321 active days (87.9%), longest streak 112 days, peak day 516 commits." src="./assets/singularity-telemetry-light.svg" width="100%">
 </picture>
 </p>
 
